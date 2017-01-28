@@ -1,2 +1,2 @@
-Repo for Algorithmic Analisis for PUJ
+Repository for Analisis of Algorithms of PUJ
 
